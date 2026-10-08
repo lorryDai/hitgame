@@ -1,0 +1,20 @@
+
+Hero_1014020033_Show_zz.png
+size: 300,602
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+da_hailang_2
+  rotate: false
+  xy: 3, 4
+  size: 295, 597
+  orig: 295, 638
+  offset: 0, 0
+  index: -1
+zz
+  rotate: false
+  xy: 3, 585
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1

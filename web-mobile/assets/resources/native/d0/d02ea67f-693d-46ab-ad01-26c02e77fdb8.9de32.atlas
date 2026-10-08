@@ -1,0 +1,118 @@
+
+jindutiao.png
+size: 241,530
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/jdg_1
+  rotate: false
+  xy: 87, 241
+  size: 80, 183
+  orig: 84, 186
+  offset: 2, 3
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0000
+  rotate: false
+  xy: 61, 179
+  size: 53, 60
+  orig: 110, 238
+  offset: 26, 86
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0002
+  rotate: false
+  xy: 171, 390
+  size: 59, 66
+  orig: 110, 238
+  offset: 21, 85
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0004
+  rotate: false
+  xy: 171, 458
+  size: 64, 70
+  orig: 110, 238
+  offset: 17, 84
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0006
+  rotate: false
+  xy: 169, 314
+  size: 70, 74
+  orig: 110, 238
+  offset: 14, 84
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0008
+  rotate: false
+  xy: 2, 242
+  size: 76, 78
+  orig: 110, 238
+  offset: 11, 83
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0010
+  rotate: false
+  xy: 2, 322
+  size: 79, 87
+  orig: 110, 238
+  offset: 10, 76
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0012
+  rotate: false
+  xy: 87, 426
+  size: 82, 102
+  orig: 110, 238
+  offset: 9, 70
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0014
+  rotate: false
+  xy: 2, 411
+  size: 83, 117
+  orig: 110, 238
+  offset: 9, 65
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0016
+  rotate: false
+  xy: 178, 33
+  size: 56, 128
+  orig: 110, 238
+  offset: 38, 61
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0018
+  rotate: false
+  xy: 120, 23
+  size: 56, 138
+  orig: 110, 238
+  offset: 38, 57
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0020
+  rotate: false
+  xy: 61, 17
+  size: 57, 144
+  orig: 110, 238
+  offset: 37, 55
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0022
+  rotate: false
+  xy: 169, 163
+  size: 58, 149
+  orig: 110, 238
+  offset: 37, 53
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0024
+  rotate: false
+  xy: 2, 88
+  size: 57, 152
+  orig: 110, 238
+  offset: 38, 52
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0026
+  rotate: false
+  xy: 2, 2
+  size: 40, 84
+  orig: 110, 238
+  offset: 38, 52
+  index: -1
+image/xulie/jd_shanshuo/shanshuo_0028
+  rotate: false
+  xy: 120, 186
+  size: 47, 53
+  orig: 110, 238
+  offset: 32, 88
+  index: -1

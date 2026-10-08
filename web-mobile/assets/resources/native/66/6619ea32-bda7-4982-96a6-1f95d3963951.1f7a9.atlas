@@ -1,0 +1,20 @@
+
+quanping.png
+size: 364,581
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/byg
+  rotate: false
+  xy: 2, 219
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+image/xin
+  rotate: false
+  xy: 2, 2
+  size: 254, 215
+  orig: 256, 256
+  offset: 1, 20
+  index: -1

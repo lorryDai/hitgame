@@ -1,0 +1,20 @@
+
+yindao.png
+size: 158,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/quan_1
+  rotate: false
+  xy: 2, 2
+  size: 83, 79
+  orig: 83, 79
+  offset: 0, 0
+  index: -1
+image/quan_2
+  rotate: false
+  xy: 87, 12
+  size: 69, 69
+  orig: 69, 69
+  offset: 0, 0
+  index: -1

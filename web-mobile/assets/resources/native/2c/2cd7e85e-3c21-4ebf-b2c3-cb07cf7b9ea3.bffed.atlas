@@ -1,0 +1,34 @@
+
+dianji.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/aixin_1
+  rotate: false
+  xy: 689, 191
+  size: 214, 180
+  orig: 256, 256
+  offset: 21, 38
+  index: -1
+image/aixin_2
+  rotate: false
+  xy: 689, 17
+  size: 206, 172
+  orig: 256, 256
+  offset: 25, 42
+  index: -1
+image/xingguang
+  rotate: false
+  xy: 2, 2
+  size: 449, 369
+  orig: 512, 512
+  offset: 32, 86
+  index: -1
+image/xingguang1
+  rotate: false
+  xy: 453, 149
+  size: 234, 222
+  orig: 256, 256
+  offset: 15, 17
+  index: -1
